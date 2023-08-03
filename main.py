@@ -1,5 +1,5 @@
 from getpass import getpass as input
-print("Welcome to my Rock paper scissors game 🪨 📄 ✂️")
+print("Welcome to the best Rock paper scissors game 🪨 📄 ✂️")
 print()
 print("Instead of typing the entire word, only type out the first letter of the move you are choosing")
 print()

@@ -1,7 +1,7 @@
 from getpass import getpass as input
 print("Welcome to the best Rock paper scissors game 🪨 📄 ✂️")
 print()
-print("Instead of typing the entire word, only type out the first letter of the move you are choosing")
+print("Instead of typing the entire word, you only need to type out the first letter of the move you are choosing")
 print()
 print("Rock = R or r")
 print("Paper = P or p")
